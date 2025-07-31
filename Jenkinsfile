@@ -65,6 +65,7 @@ pipeline {
                 stage('STAGE-1') {
                     steps {
                         script {
+                            // withAWS(region: 'us-east-1', credentials: 'aws-creds')
                             sh """
                                 echo "Hello, this is STAGE-1"
                                 sleep 15
