@@ -136,3 +136,12 @@ Q: What are some of the common plugins that you use in Jenkins ?
 
 A: Be prepared for answer, you need to have atleast 3-4 on top of your head, so that interview feels you use jenkins on a day-to-day basis.
 
+ex: 
+1. Git plugin
+2. Pipeline plugin
+3. Jira plugin
+4. Mailer Plugin / Email Extension Plugin:
+5. Kubernetes plugin
+6. Sonarqube plugin
+7. Docker plugin
+8. Amazon EC2 plugin
